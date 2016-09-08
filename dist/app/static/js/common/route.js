@@ -1,0 +1,1 @@
+define(function(){var e={"/":"index/app"};return{route:e,defaultRoute:"index/app"}});

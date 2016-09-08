@@ -1,0 +1,1 @@
+define([],function(){var n=function(){};return n.prototype={onPreRun:function(){},onPostRun:function(){},onRun:function(){},run:function(){this.onPreRun(),this.onRun(),this.onPostRun()}},n});
